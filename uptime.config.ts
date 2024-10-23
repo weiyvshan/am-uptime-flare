@@ -111,4 +111,4 @@ const workerConfig = {
 }
 
 // Don't forget this, otherwise compilation fails.
-输出 { pageConfig, workerConfig }
+export { pageConfig, workerConfig }
