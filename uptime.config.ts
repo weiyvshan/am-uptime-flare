@@ -62,7 +62,7 @@ const workerConfig = {
     // },
     {
       id: 'qinglong',
-      名字: '青龙',
+      name: 'one',
       method: 'GET',
       target: 'https://weiyv-qinglong.hf.space',
       timeout: 10000,
@@ -111,4 +111,4 @@ const workerConfig = {
 }
 
 // Don't forget this, otherwise compilation fails.
-export { pageConfig, workerConfig }
+输出 { pageConfig, workerConfig }
