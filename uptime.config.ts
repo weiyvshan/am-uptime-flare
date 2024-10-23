@@ -62,7 +62,7 @@ const workerConfig = {
     // },
     {
       id: 'qinglong',
-      name: 'one',
+      name: '青龙',
       method: 'GET',
       target: 'https://weiyv-qinglong.hf.space',
       timeout: 10000,
